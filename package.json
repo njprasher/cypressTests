@@ -1,0 +1,24 @@
+{
+  "name": "cypresstests",
+  "version": "1.0.0",
+  "description": "Testing an application with cypress",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njprasher/cypressTests.git"
+  },
+  "author": "Neeraj Prasher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njprasher/cypressTests/issues"
+  },
+  "homepage": "https://github.com/njprasher/cypressTests#readme",
+
+  "dependencies": {
+    "cypress": "^11.0.1"
+  }
+}
